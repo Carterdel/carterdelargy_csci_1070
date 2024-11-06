@@ -8,4 +8,5 @@ https://canvas.slu.edu/courses/60232/assignments/513665
 3. Null: For our dataset which shows if a client subscribes to a term deposit for a Portugese banking institution. We can show that a person's previous history (outcome of previous campaign, number of contacts before, etc.) with this banking institution will not impact whether or not they'll subscribe for a term deposit.
 
 Alternative: For our dataset which shows if a client subscribes to a term deposit for a Portugese banking insitution. We can show that a person's previous history with this banking institution will impact whether or not they'll subscribe for a term deposit.
+
 4. We plan to perform logistic regression because we have a binary column which we are using for our prediction. This column shows whether or not they subscribed for a term deposit. We can also use linear regression to show the relationship between those columns that deal with the person's previous history.
